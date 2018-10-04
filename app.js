@@ -213,7 +213,7 @@ app.use(cookieParser('5TOCyfH3HuszKGzFZntk'));
 app.use(session({
     resave: false,
     saveUninitialized: true,
-    secret: 'pAgGxo8Hzg7PFlv1HpO8Eg0Y6xtP7zYx',
+    secret: 'xAGGxo8Hzg5PFlv1Hpo8EgOY6xtp7zYx',
     cookie: {
         path: '/',
         httpOnly: true,
